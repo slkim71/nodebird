@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/snsServer.iml" filepath="$PROJECT_DIR$/snsServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nodebird.iml" filepath="$PROJECT_DIR$/nodebird.iml" />
     </modules>
   </component>
 </project>
